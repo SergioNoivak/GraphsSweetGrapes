@@ -5,7 +5,7 @@ It is a web app made with cytoscapejs that allows the visualization and executio
 <img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f1.PNG"/>
 
 Here we have implemented three of the most common algorithms in graph theory, Dijkstra, DFS and greedy coloration.You can choose the algorithm in the upper input field.
-<img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f4.PNG"/>
+<img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f4.png"/>
 
 
 
