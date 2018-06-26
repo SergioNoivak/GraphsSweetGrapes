@@ -19,4 +19,4 @@ The green button executes the selected algorithm and the Details button of the l
 
 <img width= "500px" height= "280px" src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f5.PNG"/>
 
-
+dsaddsadasads
