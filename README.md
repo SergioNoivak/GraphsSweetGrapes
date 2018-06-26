@@ -8,7 +8,7 @@ It is a web app made with cytoscapejs that allows the visualization and executio
 
 ## installation
 
-For the installation you need a server available, it can be the local Apache server or similar. After that, simply clone the repository in the server folder and run the index.html file. The index.html file, available in the src directory is the initial file of the software.
+For the installation you need a server available, it can be the local Apache server or similar. After that, simply clone the repository in the server folder and run the `index.html` file. The `index.html` file, available in the src directory is the initial file of the software.
 
 
 ## Algorithms
