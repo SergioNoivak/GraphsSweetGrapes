@@ -7,5 +7,6 @@ It is a web app made with cytoscapejs that allows the visualization and executio
 Here we have implemented three of the most common algorithms in graph theory, Dijkstra, DFS and greedy coloration.You can choose the algorithm in the upper input field.
 <img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f4.png"/>
 The green button executes the selected algorithm and the Details button of the last execution shows a modal with details about the last algorithm executed, perfect for the learning of algorithms in graphs.
+<img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f5.png"/>
 
 
