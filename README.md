@@ -8,6 +8,6 @@ Here we have implemented three of the most common algorithms in graph theory, Di
 <img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f4.png"/>
 The green button executes the selected algorithm and the Details button of the last execution shows a modal with details about the last algorithm executed, perfect for the learning of algorithms in graphs.
 
-<img src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f5.PNG"/>
+<img width= "500px" height= "280px" src="https://github.com/SergioNoivak/GraphsSweetGrapes/blob/master/img/f5.PNG"/>
 
 
